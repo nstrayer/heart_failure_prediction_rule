@@ -181,7 +181,7 @@ names(links) = c("source", "target", "value")
 sankeyNetwork(Links = links, Nodes = nodes,
  Source = "source", Target = "target", NodeGroup = 'group', 
  Value = "value", NodeID = "name", width = 700,
- fontSize = 13, colourScale=my_color,
+ fontSize = 18, colourScale=my_color,
  sinksRight = T)
 ```
 
