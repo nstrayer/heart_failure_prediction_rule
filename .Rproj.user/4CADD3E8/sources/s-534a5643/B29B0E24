@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517350822562.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "788409162",
+    "id" : "B29B0E24",
+    "lastKnownWriteTime" : 1517364155,
+    "last_content_update" : 1517364155030,
+    "path" : "/media/nick/ssd/talks/colab_pres_1/index.rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "141,32",
+        "ignored_words" : "EDs,img,src,png\n",
+        "last_setup_crc32" : "534a5643cb4d7d92",
+        "scrollLine" : "135",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
